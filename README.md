@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/reference-apps-avatar.svg" alt="reference-apps logo" width="120">
+</p>
+
 # reference-apps
 
 **Implementation-neutral specifications for small, realistic applications.**
